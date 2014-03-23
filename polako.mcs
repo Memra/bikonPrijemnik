@@ -1,0 +1,136 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\Radovan\Desktop\eurobot 2011 nase\Kod 15.5-kod koji je u bikonu\Kod 03.05 v1.2\polako\glavni.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=C:\Users\Radovan\Desktop\eurobot 2011 nase\Kod 15.5-kod koji je u bikonu\Kod 03.05 v1.2\polako\tajmeri.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=C:\Users\Radovan\Desktop\eurobot 2011 nase\Kod 15.5-kod koji je u bikonu\Kod 03.05 v1.2\polako\Uart1.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=C:\Users\Radovan\Desktop\eurobot 2011 nase\Kod 15.5-kod koji je u bikonu\Kod 03.05 v1.2\polako\uart2.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=C:\Users\Predrag\Desktop\Bikon_21.02.2012\Konacne seme i kodovi\Kodovi\Bikon\glavni.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=C:\Users\Predrag\Desktop\Bikon_21.02.2012\Konacne seme i kodovi\Kodovi\Bikon\tajmeri.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=C:\Users\Predrag\Desktop\Bikon_21.02.2012\Konacne seme i kodovi\Kodovi\Bikon\Uart1.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=C:\Users\Predrag\Desktop\Bikon_21.02.2012\Konacne seme i kodovi\Kodovi\Bikon\uart2.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=C:\Users\Radovan\Desktop\eurobot 2011 nase\Kod 15.5-kod koji je u bikonu\Kod 03.05 v1.2\polako\polako.cof
+Folder=Output
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File009]
+Location=C:\Users\Radovan\Desktop\eurobot 2011 nase\Kod 15.5-kod koji je u bikonu\Kod 03.05 v1.2\polako\polako.hex
+Folder=Output
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|D:\Milorad\Instalacija\MPlab\lib||$(LKRDIR)||
+SOLK=<src>|glavni.c|tajmeri.c|Uart1.c|uart2.c||<obj>||<lib>||<lkr>|C:\Program Files\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f4011.gld||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
